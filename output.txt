@@ -1,0 +1,14 @@
+Hey Jay
+Value of x : 2 and y : 3333
+Sum of x and y is: 3335
+Value of a : 5
+Value of b : 20000000
+Value of c : 3000000000000000009
+Value of f : 4.9
+Value of d : 45.12
+Value of s1 and s2  :  
+Value of str : 
+j
+You aren't yet.
+4321
+J3
